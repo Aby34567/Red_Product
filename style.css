@@ -1,0 +1,139 @@
+body{
+    background-color: white;
+    position: static;
+    
+}
+
+
+
+.right{
+    font-size: medium;
+    
+}
+
+header{
+    background: rgb(226, 254, 254);
+    
+}
+
+
+
+    
+
+   
+  
+    
+.navbar{
+border-bottom: 1px solid black; 
+background: rgb(226, 254, 254); }
+ 
+.paragraphe{
+    background: rgb(226, 254, 254); height: 350px;
+    --bs-gutter-x: 1.5rem;
+    --bs-gutter-y: 0;
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: calc(var(--bs-gutter-y) * -1);
+    margin-right: calc(var(--bs-gutter-x) * -.5);
+    margin-left: calc(var(--bs-gutter-x) * -.5);}
+
+
+.image{
+    --bs-gutter-x: 1.5rem;
+    --bs-gutter-y: 0;
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: calc(var(--bs-gutter-y) * -1);
+    margin-right: calc(var(--bs-gutter-x) * -.5);
+    margin-left: calc(var(--bs-gutter-x) * -.5);
+}
+.about{
+    color: rgb(113, 91, 226);
+}
+    
+
+.right{
+    margin-top: 50px;
+}
+
+.hi{
+    margin-left: 40px;
+    margin-top: 80px;
+}
+.container1{
+   background-color:  rgb(226, 254, 254); 
+
+}
+.a{
+    color: rgb(113, 91, 226);
+    margin-top: 30px ;
+    font-size: medium;
+}
+.img-fluid1{
+    background-color:rgb(66, 66, 252);
+    width: 290px;
+    margin-top: 50px;
+    border-radius: 10px;
+    box-shadow:0 0.5rem 1rem rgba(0, 0, 0, 0.15) ;
+   
+}
+
+
+.project{
+    text-align: center;
+}
+.container2{
+    text-align: center;
+    background: rgb(226, 254, 254); 
+}
+
+.droite{
+    text-align: right;
+    margin-inline-end: auto;
+    position: -ms-page;
+
+   
+}
+
+ ul {
+    margin-top: 0;
+    margin-bottom: 1rem;}
+.livea{
+    margin-top: 40px;
+    width: 310px;
+    border-radius: 10px;
+    box-shadow:0 0.5rem 1rem rgba(0, 0, 0, 0.15) ;
+}
+
+.liveb{
+    margin-top: 40px;
+    width: 310px;
+    border-radius: 10px;
+    box-shadow:0 0.5rem 1rem rgba(0, 0, 0, 0.15) ;}
+
+
+.figma{
+    margin-left: 20px;
+}
+.view{
+    margin-left: 20px;
+    color: rgb(113, 91, 226);
+}
+
+
+
+.pied{
+    background: rgb(226, 254, 254); height: 190px;
+
+}
+
+.Skill{
+    text-align: center;
+    color: rgb(113, 91, 226);
+}
+.ndiaye{
+    color: rgb(113, 91, 226);
+}
+.container-fluid{
+    
+}
