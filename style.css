@@ -47,18 +47,20 @@ background: rgb(226, 254, 254); }
 
 
 
-#container1{
-   background-color:  rgb(226, 254, 254); 
+#containe1{
+   background-color:  rgb(226, 254, 254) ;
+   height: 20rem; 
 
 }
 .a{
     color: rgb(113, 91, 226);
     
     font-size: medium;
+    width: 80%;
 }
 .img-fluid1{
     background-color:rgb(66, 66, 252);
-    width: 290px;
+    width: 25%;
     border-radius: 10px;
     box-shadow:0 0.5rem 1rem rgba(0, 0, 0, 0.15) ;
    
@@ -104,7 +106,8 @@ background: rgb(226, 254, 254); }
 
 
 #container3{
-    background: rgb(226, 254, 254);;
+    background: rgb(226, 254, 254);
+    height: 200px;
 
 }
 
@@ -116,4 +119,33 @@ background: rgb(226, 254, 254); }
     color: rgb(113, 91, 226);
 }
 
+.mt-{
+    width: 80%;
+}
 
+
+
+
+
+
+
+
+
+
+/* responsive */
+
+@media screen and (max-width: 560px) {
+    #containe1{
+        background-color:  rgb(226, 254, 254) ;
+        height: 35rem; 
+     
+     }
+
+     .img-fluid1{
+        background-color:rgb(66, 66, 252);
+        width: 68%;
+        border-radius: 10px;
+        box-shadow:0 0.5rem 1rem rgba(0, 0, 0, 0.15) ;
+       
+    }
+}
