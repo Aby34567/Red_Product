@@ -85,14 +85,14 @@ background: rgb(226, 254, 254); }
 
 .livea{
     
-    width: 310px;
+    width: 280px;
     border-radius: 10px;
     box-shadow:0 0.5rem 1rem rgba(0, 0, 0, 0.15) ;
 }
 
 .liveb{
     
-    width: 310px;
+    width: 280px;
     border-radius: 10px;
     box-shadow:0 0.5rem 1rem rgba(0, 0, 0, 0.15) ;}
 
@@ -149,3 +149,19 @@ background: rgb(226, 254, 254); }
        
     }
 }
+
+@media only screen and (max-width: 768px) {
+
+    #containe1{
+        background-color:  rgb(226, 254, 254) ;
+        height: 35rem; 
+     
+    }
+
+    .img-fluid1{
+        background-color:rgb(66, 66, 252);
+        width: 68%;
+        border-radius: 10px;
+        box-shadow:0 0.5rem 1rem rgba(0, 0, 0, 0.15) ;
+    }
+  }
